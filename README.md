@@ -227,7 +227,7 @@ I'm a backend developer with a sharp focus on **Python**, **FastAPI**, **Django*
 <div align="center">
 
 <a href="https://github.com/PRIYANSHG786/Deep_Agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRIYANSHG786&repo=Deep-Agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=9D4EDD&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRIYANSHG786&repo=Deep_Agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=9D4EDD&text_color=c9d1d9" />
 </a>
 &nbsp;
 <a href="https://github.com/PRIYANSHG786/Resume-Builder">
